@@ -1,0 +1,37 @@
+body{
+    background-color:rgb(247, 239, 171);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+.main-container{
+    border:2px solid rgb(75, 72, 72);
+    background-color: white;
+    height: 100%;
+    border-radius: 8px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    padding: 50px;
+}
+.main-container h2{
+    text-align: center;
+}
+.main-container h3{
+    padding-left: 20px;
+}
+input{
+    padding: 3px;
+}
+fieldset{
+    margin-bottom: 10px;
+   border-color:rgb(141, 138, 138);
+   border-width: 3px;
+}
+.section{
+    padding-bottom: 25px;
+}
+.upload-label{
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}
